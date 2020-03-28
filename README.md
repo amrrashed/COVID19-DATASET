@@ -1,6 +1,9 @@
 # COVID19-DATASET
 COLLECTED CHEST X-RAY AND CT IMAGES
-Note: please do not claim diagnostic performance of a model without a clinical study! This is not a kaggle competition dataset. COVID19 Images dataset (IT IS NOT KAGGLE DATASET,it is a collected dataset) this dataset contains of four folders 1-orignal dataset (chest x-ray images ,it contains four folders(normal,virus,covid,bacteria)
+
+Note: please do not claim diagnostic performance of a model without a clinical study! This is not a kaggle competition dataset. COVID19 
+
+Images dataset (IT IS NOT KAGGLE DATASET,it is a collected dataset) this dataset contains of four folders 1-orignal dataset (chest x-ray images ,it contains four folders(normal,virus,covid,bacteria)
 
 A-128 normal chest x-ray images collected from https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia one condition was taken when choosing normal images ,this condition was that i choose rgb images which contains 3 matrix not gray scale images which contais 1 matrix in each image
 
